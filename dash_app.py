@@ -28,6 +28,9 @@ pio.templates.default = "plotly_white"
 app = Dash(__name__, external_stylesheets=stylesheet,
                   meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1, shrink-to-fit=no"}])
 
+server = app.server
+
+
 def update_fig_layout(fig):
     fig.update_layout(legend=dict(yanchor="top", y=-0.1,
                                   xanchor="left", x=0.0,
