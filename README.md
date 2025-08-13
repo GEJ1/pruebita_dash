@@ -1,6 +1,6 @@
 # Monitor COVID-19 en Uruguay — README de despliegue
 
-Guía breve para **hostear** esta app Dash en **Render.com** (y correrla localmente) siguiendo el flujo del repo de referencia: *“dash-app-render-deployment”* de Thushara R. Bandara.
+Guía breve para **hostear** esta app Dash en **Render.com** (y correrla localmente) siguiendo el flujo del repo de referencia: *“dash-app-render-deployment”* de Thushara R. Bandara. https://github.com/thusharabandara/dash-app-render-deployment
 
 > Tu script ya expone `server = app.server` → perfecto para producción con **Gunicorn** y para Render.
 
