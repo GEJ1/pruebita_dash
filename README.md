@@ -28,9 +28,6 @@ pandas>=2.2
 dash-bootstrap-components>=1.6
 gunicorn>=22.0
 ```
-
-> En Render podés no fijar versiones (excepto `dash`) si querés alinearte al repo de referencia; yo prefiero fijarlas levemente para reproducibilidad.
-
 ---
 
 ## 2) Estructura de archivos
