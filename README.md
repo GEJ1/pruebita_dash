@@ -6,6 +6,10 @@ Guía breve para **hostear** esta app Dash en **Render.com** (y correrla localme
 
 ---
 
+## 0) Prerequisitos
+* Una cuenta en Render  https://render.com/.
+* Una cuenta en github y un repositorio que contenga la app de Dash que quieren subir.
+
 ## 1) Requisitos
 
 * **Python 3.10+** (recomendado 3.12)
