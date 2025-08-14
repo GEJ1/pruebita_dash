@@ -34,7 +34,7 @@ gunicorn>=22.0
 
 ```
 project/
-├─ app.py               # el script que pegaste
+├─ app.py               
 ├─ requirements.txt
 └─ (opcional) README.md
 ```
